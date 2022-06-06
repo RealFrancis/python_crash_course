@@ -12,3 +12,8 @@ print(favorite_language.lstrip())
 print(favorite_language.strip())
 
 print("Albert Einstein once said, \"A person who nevermade a mistake never tried anything new.\"")
+
+types = ['AAA','BBB','CCC']
+print(f"I would like to own a Honda {types[0]}.")
+print(f"I would like to own a Honda {types[1]}.")
+print(f"I would like to own a Honda {types[2]}.")
