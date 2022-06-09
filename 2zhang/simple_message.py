@@ -12,3 +12,11 @@ print(favorite_language.lstrip())
 print(favorite_language.strip())
 
 print("Albert Einstein once said, \"A person who nevermade a mistake never tried anything new.\"")
+
+number = 1000_000_000
+print(number)
+
+x,y,z=1,2,3
+print(x)
+print(y)
+print(z)
