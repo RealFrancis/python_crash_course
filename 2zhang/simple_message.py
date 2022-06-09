@@ -13,6 +13,14 @@ print(favorite_language.strip())
 
 print("Albert Einstein once said, \"A person who nevermade a mistake never tried anything new.\"")
 
+number = 1000_000_000
+print(number)
+
+x,y,z=1,2,3
+print(x)
+print(y)
+print(z)
+
 types = ['AAA','BBB','CCC']
 print(f"I would like to own a Honda {types[0]}.")
 print(f"I would like to own a Honda {types[1]}.")
